@@ -11,6 +11,15 @@
     position: relative;
     z-index: 1;
 }
+.banner2{
+    background-image: url("../img/Consultamedica_2\ \(1\).jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+    position: relative;
+    z-index: 1;
+}
 
 .banner::after{
     content: "";
